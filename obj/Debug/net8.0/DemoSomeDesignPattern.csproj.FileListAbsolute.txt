@@ -1,0 +1,14 @@
+D:\Semester 5\C#\DemoSomeDesignPattern\bin\Debug\net8.0\DemoSomeDesignPattern.exe
+D:\Semester 5\C#\DemoSomeDesignPattern\bin\Debug\net8.0\DemoSomeDesignPattern.deps.json
+D:\Semester 5\C#\DemoSomeDesignPattern\bin\Debug\net8.0\DemoSomeDesignPattern.runtimeconfig.json
+D:\Semester 5\C#\DemoSomeDesignPattern\bin\Debug\net8.0\DemoSomeDesignPattern.dll
+D:\Semester 5\C#\DemoSomeDesignPattern\bin\Debug\net8.0\DemoSomeDesignPattern.pdb
+D:\Semester 5\C#\DemoSomeDesignPattern\obj\Debug\net8.0\DemoSomeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\C#\DemoSomeDesignPattern\obj\Debug\net8.0\DemoSomeDesignPattern.AssemblyInfoInputs.cache
+D:\Semester 5\C#\DemoSomeDesignPattern\obj\Debug\net8.0\DemoSomeDesignPattern.AssemblyInfo.cs
+D:\Semester 5\C#\DemoSomeDesignPattern\obj\Debug\net8.0\DemoSomeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Semester 5\C#\DemoSomeDesignPattern\obj\Debug\net8.0\DemoSomeDesignPattern.dll
+D:\Semester 5\C#\DemoSomeDesignPattern\obj\Debug\net8.0\refint\DemoSomeDesignPattern.dll
+D:\Semester 5\C#\DemoSomeDesignPattern\obj\Debug\net8.0\DemoSomeDesignPattern.pdb
+D:\Semester 5\C#\DemoSomeDesignPattern\obj\Debug\net8.0\DemoSomeDesignPattern.genruntimeconfig.cache
+D:\Semester 5\C#\DemoSomeDesignPattern\obj\Debug\net8.0\ref\DemoSomeDesignPattern.dll
